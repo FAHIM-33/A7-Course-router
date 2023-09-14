@@ -4,7 +4,7 @@
       "title": "Problem-Solving Part",
       "image": "https://i.ibb.co/cw82mL8/Rectangle-2-6.png",
       "details": "A reader will be distracted by the readable content of a page when looking at its layout",
-      "price": 10.99,
+      "price": 109,
       "credit": 5
     },
     {
@@ -12,7 +12,7 @@
       "title": "Software Engineering",
       "image": "https://i.ibb.co/qr9YyqZ/Rectangle-2-5.png",
       "details": "Details about A reader will be distracted by the readable content of a page when looking at its layout",
-      "price": 15.99,
+      "price": 159,
       "credit": 8
     },
     {
@@ -20,7 +20,7 @@
       "title": "Introduction to C++ for DSA",
       "image": "https://i.ibb.co/7n3xDpn/Rectangle-2-4.png",
       "details": "About a reader will be distracted by the readable content of a page when looking at its layout",
-      "price": 12.49,
+      "price": 129,
       "credit": 6
     },
     {
@@ -28,7 +28,7 @@
       "title": "Introduction to Algorithms",
       "image": "https://i.ibb.co/r280ZNt/Rectangle-2-3.png",
       "details": "Reader will be distracted by the readable content of a page when looking at its nice layout",
-      "price": 8.99,
+      "price": 89,
       "credit": 4
     },
     {
@@ -36,7 +36,7 @@
       "title": "Introduction to C Programming",
       "image": "https://i.ibb.co/8rk8mLT/Rectangle-2-2.png",
       "details": "Product for A reader will be distracted by the readable content of a page when looking at its layout",
-      "price": 17.99,
+      "price": 199,
       "credit": 9
     },
     {
@@ -44,7 +44,7 @@
       "title": "Database (MySQL)",
       "image": "https://i.ibb.co/GsZvnXV/Rectangle-2-1.png",
       "details": "You will be distracted by the readable content of a page when looking at its layout",
-      "price": 9.99,
+      "price": 99,
       "credit": 5
     },
     {
@@ -52,7 +52,7 @@
       "title": "Introduction to OOP Python",
       "image": "https://i.ibb.co/1zQ4P7G/Rectangle-2.png",
       "details": "A reader will be distracted by the readable content of a page when looking at its layout.This page for readers.",
-      "price": 11.99,
+      "price": 299,
       "credit": 7
     },
     {
@@ -60,7 +60,7 @@
       "title": "AWS, Cloud Computing",
       "image": "https://i.ibb.co/w0PP8Vh/Rectangle-3-1.png",
       "details": "What about a reader will be distracted by the readable content of a page when looking at its layout",
-      "price": 14.99,
+      "price": 49,
       "credit": 8
     },
     {
@@ -68,7 +68,7 @@
       "title": "Basic Data Structures",
       "image": "https://i.ibb.co/9HG0gVf/Rectangle-3.png",
       "details": "When will you get distracted by the readable content of a page when looking at its layout.Isn't this page good.",
-      "price": 16.49,
+      "price": 164,
       "credit": 9
     }
   ]
