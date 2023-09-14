@@ -4,6 +4,15 @@ import Cards from './Components/Cards/Cards'
 import Sidebar from './Components/Sidebar/Sidebar'
 function App() {
 
+function toasting(text){
+  let elem = document.getElementById('toast')
+  elem.innerText = text;
+  elem.classList.add('toasted')
+  setTimeout(() => {
+    elem.classList.remove('toasted')
+  }, 1400);
+}
+
   let [course, setCourse] = useState([])
   let [credit, setCredit] = useState(0)
   let [price, setPrice] = useState(0)
@@ -12,10 +21,10 @@ function App() {
     let totalTime = card.credit + credit;
     let doesExist = course.find(obj => obj.id === card.id);
     if (totalTime > 20) {
-      return alert('Exceeding');
+      return toasting('Not enough credit.');
     }
     if (doesExist) {
-      return alert('Already exists.')
+      return toasting('Course already added.')
     }
     let newArr = [...course, card]
     setCourse(newArr);
@@ -23,10 +32,6 @@ function App() {
     setCredit(credit + card.credit)
 
   }
-
-
-
-
 
   return (
     <>

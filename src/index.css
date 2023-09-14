@@ -8,10 +8,48 @@ body{
     max-width: 1440px;
     margin: 0 auto;
     padding: 60px;
+    
 }
 /* .brr{
     border: 1px solid red;
 } */
 
-
+.toast{
+    visibility: hidden;
+    color: white;
+    font-weight: 600;
+    font-size: 1.5rem;
+    bottom: 5%;
+    left: 50%;
+    background-color: rgba(0, 0, 0, 0.712);
+    transform: translate(-50%,-50%);
+}
+.toasted{
+    visibility: visible;
+    animation: fadeUp 0.2s forwards, fadeDown 0.2s 1.3s;
+}
+@keyframes fadeUp{
+    from{
+        bottom: 5%;
+        opacity: 0;
+        scale:0.8;
+    }
+    to{
+        bottom: 20%;
+        opacity: 1;
+        scale: 1.2;
+    }
+}
+@keyframes fadeDown{
+    from{
+        bottom: 20%;
+        opacity: 1;
+        scale: 1.2;
+    }
+    to{
+        bottom: 0;
+        opacity: 0;
+        scale: 0.5;
+    }
+}
 

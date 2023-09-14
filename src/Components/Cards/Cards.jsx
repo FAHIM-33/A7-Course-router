@@ -23,7 +23,7 @@ const Cards = ({ handleCourse }) => {
         </div>
     );
 };
-Cards.ptopTypes = {
+Cards.propTypes = {
     handleCourse: pt.func,
 }
 export default Cards;
