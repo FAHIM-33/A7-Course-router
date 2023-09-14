@@ -1,64 +1,73 @@
 [
     {
-      "title": "Product 1",
+      "id": 1,
+      "title": "Problem-Solving Part",
       "image": "https://i.ibb.co/cw82mL8/Rectangle-2-6.png",
-      "details": "Details about Product 1",
+      "details": "A reader will be distracted by the readable content of a page when looking at its layout",
       "price": 10.99,
       "credit": 5
     },
     {
-      "title": "Product 2",
+      "id": 2,
+      "title": "Software Engineering",
       "image": "https://i.ibb.co/qr9YyqZ/Rectangle-2-5.png",
-      "details": "Details about Product 2",
+      "details": "Details about A reader will be distracted by the readable content of a page when looking at its layout",
       "price": 15.99,
       "credit": 8
     },
     {
-      "title": "Product 3",
+      "id": 3,
+      "title": "Introduction to C++ for DSA",
       "image": "https://i.ibb.co/7n3xDpn/Rectangle-2-4.png",
-      "details": "Details about Product 3",
+      "details": "About a reader will be distracted by the readable content of a page when looking at its layout",
       "price": 12.49,
       "credit": 6
     },
     {
-      "title": "Product 4",
+      "id": 4,
+      "title": "Introduction to Algorithms",
       "image": "https://i.ibb.co/r280ZNt/Rectangle-2-3.png",
-      "details": "Details about Product 4",
+      "details": "Reader will be distracted by the readable content of a page when looking at its nice layout",
       "price": 8.99,
       "credit": 4
     },
     {
-      "title": "Product 5",
+      "id": 5,
+      "title": "Introduction to C Programming",
       "image": "https://i.ibb.co/8rk8mLT/Rectangle-2-2.png",
-      "details": "Details about Product 5",
+      "details": "Product for A reader will be distracted by the readable content of a page when looking at its layout",
       "price": 17.99,
       "credit": 9
     },
     {
-      "title": "Product 6",
+      "id": 6,
+      "title": "Database (MySQL)",
       "image": "https://i.ibb.co/GsZvnXV/Rectangle-2-1.png",
-      "details": "Details about Product 6",
+      "details": "You will be distracted by the readable content of a page when looking at its layout",
       "price": 9.99,
       "credit": 5
     },
     {
-      "title": "Product 7",
+      "id": 7,
+      "title": "Introduction to OOP Python",
       "image": "https://i.ibb.co/1zQ4P7G/Rectangle-2.png",
-      "details": "Details about Product 7",
+      "details": "A reader will be distracted by the readable content of a page when looking at its layout.This page for readers.",
       "price": 11.99,
       "credit": 7
     },
     {
-      "title": "Product 8",
+      "id": 8,
+      "title": "AWS, Cloud Computing",
       "image": "https://i.ibb.co/w0PP8Vh/Rectangle-3-1.png",
-      "details": "Details about Product 8",
+      "details": "What about a reader will be distracted by the readable content of a page when looking at its layout",
       "price": 14.99,
       "credit": 8
     },
     {
-      "title": "Product 9",
+      "id": 9,
+      "title": "Basic Data Structures",
       "image": "https://i.ibb.co/9HG0gVf/Rectangle-3.png",
-      "details": "Details about Product 9",
+      "details": "When will you get distracted by the readable content of a page when looking at its layout.Isn't this page good.",
       "price": 16.49,
       "credit": 9
     }
