@@ -2,7 +2,7 @@ import pt from 'prop-types'
 const Sidebar = ({ course, credit, price }) => {
     let remaining = 20 - credit;
     return (
-        <div className="w-1/4 p-6">
+        <div className="w-1/4 p-6 bg-white rounded-lg h-fit">
             <h2 className="text-prim text-lg font-bold">Credit Hour Remaining {remaining} hr</h2>
             <div className="w-full h-[1px] bg-gray-300 my-4"></div>
             <h2 className="text-hard text-xl font-bold mb-5">Course Name</h2>
